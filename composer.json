@@ -6,6 +6,6 @@
         }
     },
     "require": {
-        "apache/thrift": "^0.10.0"
+        "apache/thrift": "^0.11.0"
     }
 }
